@@ -101,7 +101,8 @@ title("Average Steps by 5 minute interval - Weekday")
 dev.off()
 
 
-
+#had to do this to resubmit
+knit2html("PA1_template.Rmd", force_v1 = TRUE)
 
 
 
